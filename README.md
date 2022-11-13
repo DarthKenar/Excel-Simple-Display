@@ -6,12 +6,12 @@ How to use:
 
 Download .exe file to run or ...
 
-1 - execute run.py
+1 - Execute run.py
 
-2 - write excel file name (it is recommended to edit finances file)
+2 - Write excel file name (it is recommended to edit finances file)
 
 ![Yougui](https://raw.githubusercontent.com/DarthKenar/Excel-Simple-Display/master/res/gui.png)
 
-3 - enjoy
+3 - Enjoy
 
 ![Youplot](https://raw.githubusercontent.com/DarthKenar/Excel-Simple-Display/master/res/matplotlib.png)
